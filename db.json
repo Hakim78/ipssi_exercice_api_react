@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nom": "Francis",
+      "prenom": "Copola"
+    },
+    {
+      "id": 2,
+      "nom": "Jean",
+      "prenom": "Jacques"
+    },
+    {
+      "id": 3,
+      "nom": "Michel",
+      "prenom": "Sardou"
+    },
+    {
+      "id": 4,
+      "nom": "Elie",
+      "prenom": "Yaffa"
+    },
+    {
+      "id": 5,
+      "nom": "La",
+      "prenom": "Fouine"
+    }
+  ]
+}
